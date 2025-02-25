@@ -18,7 +18,7 @@ A new Flutter plugin project.
   s.platform = :ios, '11.0'
 
   s.dependency 'MNCIdentifier/Face', '1.0.2'
-  s.dependency 'GoogleMLKit/FaceDetection', '2.3.0'
+  s.dependency 'GoogleMLKit/FaceDetection', '~> 6.0.0'
 
   s.static_framework = true
 
